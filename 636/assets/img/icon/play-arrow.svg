@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon/play-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M26.6452389,24.7892996 L41.2480373,34.3838174 L26.6452389,44.1150239 L26.6452389,24.7892996 Z M25.9704325,47.7232314 L44.4061707,35.5865843 C44.8020566,35.3314598 45,34.9578846 45,34.4658586 C45,33.9738316 44.8020566,33.5911435 44.4061707,33.3177951 L25.9704325,21.2084858 C25.5745466,20.9351374 25.1471695,20.9305823 24.6883021,21.1948184 C24.2294337,21.4590548 24,21.864521 24,22.4112169 L24,46.6571733 C24,47.1856462 24.2294337,47.5774463 24.6883021,47.8325745 C25.1471704,48.087699 25.5745466,48.051253 25.9704325,47.7232347 L25.9704325,47.7232314 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/play-arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Shape" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="color/postnl-orange-primary" mask="url(#mask-2)" fill="#ED8C00">
+            <rect id="Rectangle" x="0" y="0" width="70" height="70"></rect>
+        </g>
+    </g>
+</svg>
